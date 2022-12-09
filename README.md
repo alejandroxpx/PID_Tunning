@@ -1,4 +1,4 @@
 # PID_Tunning
 PID tunning interface.
 
-Download all files into folder and open PIC_Script.m and click "Run".
+Download all files into a folder and open PID_script.m and click "Run".
